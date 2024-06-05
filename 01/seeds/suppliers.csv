@@ -1,0 +1,31 @@
+supplier_id,supplier_name,contact_name,address,city,postal_code,country,phone
+1,FreshHarvest Co., Ltd.,Yuki Tanaka,1-2-3 Sakura St.,Tokyo,100-0001,Japan,+81 3-1234-5678
+2,GreenBasket Ltd.,Emily Johnson,45 Greenfield Ave.,London,SW1A 1AA,UK,+44 20 7946 0958
+3,SostenibleComida S.A.,Carlos Ruiz,Calle Mayor 123,Madrid,28013,Spain,+34 91 123 4567
+4,NaturalezaDelicia S.R.L.,Ana Martinez,Av. Insurgentes 456,Mexico City,11000,Mexico,+52 55 1234 5678
+5,ÉcoFerme Inc.,François Dupont,12 Rue de la Paix,Paris,75001,France,+33 1 2345 6789
+6,GoodGrowth Pty Ltd.,Liam Brown,78 King St.,Sydney,2000,Australia,+61 2 1234 5678
+7,EssenzaBiologica S.p.A.,Maria Rossi,Via Roma 89,Milan,20121,Italy,+39 02 1234 5678
+8,VidaSaudável Lda.,João Silva,Rua das Flores 45,Lisbon,1000-001,Portugal,+351 21 123 4567
+9,PerfectProduce GmbH,Hans Müller,Hauptstr. 23,Berlin,10115,Germany,+49 30 1234 5678
+10,FoodNxt Ltd.,Jessica Davis,123 Main St.,New York,10001,USA,+1 212 123 4567
+11,EthicalFoods Ltd.,Michael Thompson,456 Maple Rd.,Toronto,M5H 2N2,Canada,+1 416 123 4567
+12,AgriculturaSuprimentos S.A.,Fernanda Oliveira,Av. Paulista 789,São Paulo,01310-000,Brazil,+55 11 1234 5678
+13,ProvisionPure Ltd.,Oliver Williams,67 Market St.,London,W1D 3QF,UK,+44 20 7946 0958
+14,GreenField Co., Ltd.,Haruto Yamamoto,4-5-6 Ueno St.,Osaka,530-0001,Japan,+81 6-1234-5678
+15,ValleVegetal S.A.,Juan Perez,Calle San Martin 456,Buenos Aires,C1002,Argentina,+54 11 1234 5678
+16,GlobalGrocery Pty Ltd.,Chloe Smith,89 Queen St.,Melbourne,3000,Australia,+61 3 1234 5678
+17,SoleilFood S.A.R.L.,Pierre Martin,23 Avenue des Champs-Élysées,Paris,75008,France,+33 1 2345 6789
+18,AlimentosBioDinámicos S.A.,Laura Gomez,Calle Florida 789,Buenos Aires,C1005,Argentina,+54 11 8765 4321
+19,RichHarvest Ltd.,William Scott,123 Kings Rd.,London,SW3 4RY,UK,+44 20 7946 0958
+20,HarvettoSalute S.p.A.,Alessandro Bianchi,Corso Vittorio Emanuele 56,Rome,00186,Italy,+39 06 1234 5678
+21,TotalFoodSupply Inc.,Sarah Wilson,456 Park Ave.,New York,10022,USA,+1 212 765 4321
+22,GreenForest GmbH,Thomas Weber,Lindenstr. 78,Munich,80331,Germany,+49 89 1234 5678
+23,EvergreenSupply Ltd.,Amelia Brown,234 Oak St.,Vancouver,V6H 3X8,Canada,+1 604 123 4567
+24,NexusNatural S.R.L.,Diego Lopez,Avenida Revolución 234,Mexico City,11000,Mexico,+52 55 8765 4321
+25,OasisOrganico S.A.,Lucia Fernandez,Calle Serrano 567,Madrid,28006,Spain,+34 91 876 5432
+26,FreshNature Pty Ltd.,Jack Harris,123 Swanston St.,Melbourne,3000,Australia,+61 3 8765 4321
+27,EcoPlanet S.A.R.L.,Sophie Dupont,56 Rue de Rivoli,Paris,75004,France,+33 1 8765 4321
+28,GoodEarthSupply Inc.,John Lee,789 Main St.,Los Angeles,90001,USA,+1 323 123 4567
+29,VisioneSostenibile S.p.A.,Giulia Romano,Piazza Navona 123,Rome,00186,Italy,+39 06 8765 4321
+30,EnviroFood Ltd.,Robert Green,345 High St.,Manchester,M4 1HQ,UK,+44 161 123 4567

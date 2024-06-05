@@ -1,0 +1,101 @@
+product_id,product_name,supplier_id,category_id,unit,price
+1,Tomato,17,1,1kg pkg.,3
+2,Cucumber,16,1,500g pkg.,1.5
+3,Carrot,4,1,1kg pkg.,2.5
+4,Bell Pepper,9,1,1kg pkg.,4
+5,Lettuce,23,1,1 head,1.5
+6,Celery,29,1,1 bunch,1.8
+7,Onion,15,1,1kg pkg.,1.2
+8,Potato,16,1,2kg pkg.,3
+9,Sweet Corn,28,1,2 ears,1.5
+10,Ginger,8,1,250g pkg.,3.5
+11,Apple,25,2,1kg pkg.,4
+12,Banana,13,2,1kg pkg.,2
+13,Orange,1,2,1kg pkg.,3
+14,Grapes,5,2,500g pkg.,3.5
+15,Strawberry,11,2,250g pkg.,4
+16,Blueberry,27,2,200g pkg.,4.5
+17,Pineapple,14,2,1 whole,3
+18,Watermelon,27,2,1 whole,7
+19,Kiwi,21,2,500g pkg.,4
+20,Mango,3,2,1kg pkg.,5
+21,White Bread,29,3,1 loaf,2
+22,Whole Wheat Bread,21,3,1 loaf,2.5
+23,Croissant,22,3,4 pcs,3
+24,Bagel,7,3,6 pcs,4
+25,Muffin,28,3,4 pcs,3.5
+26,Chocolate Cake,15,3,1 cake,15
+27,Cheesecake,15,3,1 cake,18
+28,Danish Pastry,20,3,4 pcs,5
+29,Donut,21,3,6 pcs,4.5
+30,Baguette,23,3,1 loaf,2.8
+31,Orange Juice,6,4,1L bottle,3
+32,Apple Juice,9,4,1L bottle,3
+33,Cola,26,4,1.5L bottle,2
+34,Lemonade,9,4,1.5L bottle,2.5
+35,Sparkling Water,30,4,1L bottle,1.5
+36,Beer,17,4,6 pack (330ml each),8
+37,Red Wine,10,4,750ml bottle,15
+38,White Wine,23,4,750ml bottle,14
+39,Whiskey,8,4,700ml bottle,25
+40,Vodka,9,4,700ml bottle,20
+41,Beef Steak,16,5,1kg,20
+42,Pork Chops,5,5,1kg,15
+43,Lamb Chops,16,5,1kg,25
+44,Chicken Breast,29,5,1kg,10
+45,Ground Beef,4,5,1kg,12
+46,Ground Pork,30,5,1kg,10
+47,Bacon,25,5,500g pkg.,8
+48,Sausages,21,5,500g pkg.,7
+49,Turkey Breast,26,5,1kg,14
+50,Duck Breast,9,5,1kg,18
+51,Salmon Fillet,16,6,1kg,22
+52,Shrimp,14,6,1kg,18
+53,Tuna Steak,22,6,1kg,25
+54,Crab Legs,26,6,1kg,30
+55,Lobster,26,6,1 whole,40
+56,Scallops,11,6,500g pkg.,20
+57,Clams,22,6,1kg,15
+58,Mussels,27,6,1kg,12
+59,Octopus,16,6,1kg,18
+60,Squid,12,6,1kg,14
+61,Whole Milk,29,7,1L bottle,2
+62,Low-Fat Milk,24,7,1L bottle,2
+63,Cheddar Cheese,30,7,200g pkg.,4
+64,Mozzarella Cheese,26,7,200g pkg.,4.5
+65,Greek Yogurt,21,7,500g tub,3
+66,Regular Yogurt,13,7,500g tub,2.5
+67,Butter,14,7,250g block,3
+68,Cream Cheese,9,7,200g pkg.,3.5
+69,Parmesan Cheese,6,7,200g pkg.,5
+70,Sour Cream,2,7,250g tub,2
+71,White Rice,3,8,1kg pkg.,3
+72,Brown Rice,13,8,1kg pkg.,3.5
+73,Quinoa,22,8,500g pkg.,4
+74,Oats,21,8,1kg pkg.,2.5
+75,Barley,16,8,1kg pkg.,2.8
+76,Millet,30,8,500g pkg.,3
+77,Cornmeal,18,8,1kg pkg.,2
+78,Bulghur,12,8,500g pkg.,3.2
+79,Couscous,2,8,500g pkg.,3
+80,Wheat Flour,27,8,1kg pkg.,2
+81,Salt,16,9,1kg pkg.,1
+82,Black Pepper,16,9,100g pkg.,3
+83,Olive Oil,15,9,500ml bottle,8
+84,Soy Sauce,23,9,1L bottle,4
+85,Vinegar,15,9,1L bottle,2
+86,Ketchup,26,9,500ml bottle,3
+87,Mayonnaise,16,9,500ml bottle,3.5
+88,Mustard,16,9,250g jar,2.5
+89,Honey,3,9,500g jar,6
+90,Garlic Powder,4,9,100g jar,2
+91,Chocolate Bar,11,10,100g bar,2
+92,Gummy Bears,4,10,200g bag,3
+93,Cookies,4,10,300g box,4
+94,Brownies,16,10,4 pcs,5
+95,Candy,26,10,250g bag,2.5
+96,Popcorn,20,10,100g bag,1.5
+97,Pretzels,7,10,200g bag,3
+98,Ice Cream,12,10,500ml tub,4.5
+99,Cupcakes,14,10,4 pcs,4
+100,Marshmallows,29,10,200g bag,2
