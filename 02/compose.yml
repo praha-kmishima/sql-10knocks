@@ -1,0 +1,28 @@
+services:
+  praha-challenge-db:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: praha-challenge-db-02
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_DATABASE=employees
+    ports:
+      - 3306:3306
+    volumes:
+      - ./initdb.d:/docker-entrypoint-initdb.d
+      - praha-challenge-db-data-02:/var/lib/mysql
+
+  praha-challenge-db-client:
+    image: phpmyadmin:5.2
+    container_name: praha-challenge-db-client-02
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOST=praha-challenge-db
+      - PMA_USER=root
+      - PMA_PASSWORD=password
+    ports:
+      - 8080:80
+
+volumes:
+  praha-challenge-db-data-02:
