@@ -10,7 +10,6 @@ services:
     ports:
       - 3306:3306
     volumes:
-      - ./initdb.d:/docker-entrypoint-initdb.d
       - praha-challenge-db-data-02:/var/lib/mysql
 
   praha-challenge-db-client:
