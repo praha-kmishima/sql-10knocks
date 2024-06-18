@@ -1,0 +1,4 @@
+"shipper_id","shipper_name","phone","long_relation"
+1,FastCargo,"123-456-7890",0
+2,SwiftTransit,"987-654-3210",1
+3,ExpressHaul,"555-123-4567",1
