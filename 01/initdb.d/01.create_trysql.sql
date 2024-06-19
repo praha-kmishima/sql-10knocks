@@ -52,9 +52,7 @@ CREATE TABLE products (
     supplier_id INT NOT NULL,
     category_id INT NOT NULL,
     unit VARCHAR(255) NOT NULL,
-    price DECIMAL NOT NULL,
-    FOREIGN KEY (supplier_id) REFERENCES suppliers(supplier_id),
-    FOREIGN KEY (category_id) REFERENCES categories(category_id)
+    price DECIMAL NOT NULL
 );
 
 CREATE TABLE orders (
@@ -62,17 +60,12 @@ CREATE TABLE orders (
     customer_id INT NOT NULL,
     employee_id INT NOT NULL,
     order_date DATE NOT NULL,
-    shipper_id INT NOT NULL,
-    FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
-    FOREIGN KEY (employee_id) REFERENCES employees(employee_id),
-    FOREIGN KEY (shipper_id) REFERENCES shippers(shipper_id)
+    shipper_id INT NOT NULL
 );
 
 CREATE TABLE order_details (
     order_detail_id INT AUTO_INCREMENT PRIMARY KEY,
     order_id INT NOT NULL,
     product_id INT NOT NULL,
-    quantity INT NOT NULL,
-    FOREIGN KEY (order_id) REFERENCES orders(order_id),
-    FOREIGN KEY (product_id) REFERENCES products(product_id)
+    quantity INT NOT NULL
 );
